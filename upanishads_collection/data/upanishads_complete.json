@@ -1,0 +1,1602 @@
+[
+  {
+    "id": 1,
+    "sanskrit_name": "Aitareya",
+    "thai_name": "ไตติตริยะ",
+    "thai_translation": "ปรัชญาเกี่ยวกับต้นกำเนิดมนุษย์",
+    "category": "Principal",
+    "veda": "Rig Veda"
+  },
+  {
+    "id": 2,
+    "sanskrit_name": "Akshi",
+    "thai_name": "อักษิ",
+    "thai_translation": "ว่าด้วยดวงตาและความรู้แจ้ง",
+    "category": "Minor",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 3,
+    "sanskrit_name": "Amritabindu",
+    "thai_name": "อมฤตะบินธุ",
+    "thai_translation": "หยดแห่งความเป็นนิรันดร์",
+    "category": "Yoga",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 4,
+    "sanskrit_name": "Amritanada",
+    "thai_name": "อมฤตะนาทะ",
+    "thai_translation": "เสียงแห่งความเป็นนิรันดร์",
+    "category": "Yoga",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 5,
+    "sanskrit_name": "Amritanadi",
+    "thai_name": "อมฤตะนาที",
+    "thai_translation": "ทางน้ำแห่งอมฤต",
+    "category": "Yoga",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 6,
+    "sanskrit_name": "Annapurna",
+    "thai_name": "อันนะปูรณะ",
+    "thai_translation": "เทวีแห่งอาหาร",
+    "category": "Shakti",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 7,
+    "sanskrit_name": "Aruni",
+    "thai_name": "อารุนิ",
+    "thai_translation": "ปรัชญาของฤๅษีอารุนิ",
+    "category": "Minor",
+    "veda": "Sama Veda"
+  },
+  {
+    "id": 8,
+    "sanskrit_name": "Arunika",
+    "thai_name": "อารุนิกะ",
+    "thai_translation": "ปรัชญาเกี่ยวกับแสงสว่าง",
+    "category": "Minor",
+    "veda": "Sama Veda"
+  },
+  {
+    "id": 9,
+    "sanskrit_name": "Atharvashikha",
+    "thai_name": "อถรรวศิขา",
+    "thai_translation": "ว่าด้วยศีรษะและความรู้",
+    "category": "Minor",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 10,
+    "sanskrit_name": "Atharvashiras",
+    "thai_name": "อถรรวศิรัส",
+    "thai_translation": "ว่าด้วยเศียร",
+    "category": "Minor",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 11,
+    "sanskrit_name": "Atmabodha",
+    "thai_name": "อัตมะโพธะ",
+    "thai_translation": "ความรู้แห่งอัตตา",
+    "category": "Vedanta",
+    "veda": "Rig Veda"
+  },
+  {
+    "id": 12,
+    "sanskrit_name": "Atmaprabodha",
+    "thai_name": "อัตมะประโพธะ",
+    "thai_translation": "ตื่นรู้แห่งอัตตา",
+    "category": "Vedanta",
+    "veda": "Rig Veda"
+  },
+  {
+    "id": 13,
+    "sanskrit_name": "Atmapurana",
+    "thai_name": "อัตมะปุราณะ",
+    "thai_translation": "ตำนานแห่งอัตตา",
+    "category": "Vedanta",
+    "veda": "Rig Veda"
+  },
+  {
+    "id": 14,
+    "sanskrit_name": "Atmashatkam",
+    "thai_name": "อัตมะศัตกัม",
+    "thai_translation": "บทสวด 6 ข้อแห่งอัตตา",
+    "category": "Vedanta",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 15,
+    "sanskrit_name": "Atmasiddhi",
+    "thai_name": "อัตมะสิทธิ",
+    "thai_translation": "ความสำเร็จของอัตตา",
+    "category": "Vedanta",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 16,
+    "sanskrit_name": "Atmopanishad",
+    "thai_name": "อัตมะอุปนิษัท",
+    "thai_translation": "ว่าด้วยอัตตา",
+    "category": "Vedanta",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 17,
+    "sanskrit_name": "Avadhuta",
+    "thai_name": "อวธุตะ",
+    "thai_translation": "นักบวชผู้หลุดพ้น",
+    "category": "Sannyasa",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 18,
+    "sanskrit_name": "Bahvricha",
+    "thai_name": "พหุริฉะ",
+    "thai_translation": "ว่าด้วยความมั่งคั่ง",
+    "category": "Minor",
+    "veda": "Rig Veda"
+  },
+  {
+    "id": 19,
+    "sanskrit_name": "Bhasmajabala",
+    "thai_name": "ภัสมะชบาละ",
+    "thai_translation": "เถ้าแห่งความบริสุทธิ์",
+    "category": "Shaiva",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 20,
+    "sanskrit_name": "Brahma",
+    "thai_name": "พรหมะ",
+    "thai_translation": "องค์พรหม",
+    "category": "Principal",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 21,
+    "sanskrit_name": "Brahmakaivalya",
+    "thai_name": "พรหมะไกววลยะ",
+    "thai_translation": "ความหลุดพ้นแห่งพรหม",
+    "category": "Vedanta",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 22,
+    "sanskrit_name": "Brahmarahasya",
+    "thai_name": "พรหมะรหัสยะ",
+    "thai_translation": "ความลับแห่งพรหม",
+    "category": "Vedanta",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 23,
+    "sanskrit_name": "Brahmavidya",
+    "thai_name": "พรหมะวิทยา",
+    "thai_translation": "วิชาพรหม",
+    "category": "Vedanta",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 24,
+    "sanskrit_name": "Brahmasamhita",
+    "thai_name": "พรหมะสังหิตา",
+    "thai_translation": "บทสวดพรหม",
+    "category": "Vaishnava",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 25,
+    "sanskrit_name": "Brahmasutra",
+    "thai_name": "พรหมะสูตร",
+    "thai_translation": "สูตรปรัชญาพรหม",
+    "category": "Vedanta",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 26,
+    "sanskrit_name": "Brahmatraya",
+    "thai_name": "พรหมะตรายะ",
+    "thai_translation": "พรหมสามลักษณะ",
+    "category": "Vedanta",
+    "veda": "Sama Veda"
+  },
+  {
+    "id": 27,
+    "sanskrit_name": "Brahmabindu",
+    "thai_name": "พรหมะพินธุ",
+    "thai_translation": "หยดพรหม",
+    "category": "Yoga",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 28,
+    "sanskrit_name": "Brahman",
+    "thai_name": "พรหมัน",
+    "thai_translation": "สัจธรรมสูงสุด",
+    "category": "Principal",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 29,
+    "sanskrit_name": "Brahmananda",
+    "thai_name": "พรหมานันทะ",
+    "thai_translation": "ความสุขแห่งพรหม",
+    "category": "Vedanta",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 30,
+    "sanskrit_name": "Brahmaparivarta",
+    "thai_name": "พรหมะปริวรรตะ",
+    "thai_translation": "การเปลี่ยนแปลงแห่งพรหม",
+    "category": "Vedanta",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 31,
+    "sanskrit_name": "Brahmapurana",
+    "thai_name": "พรหมะปุราณะ",
+    "thai_translation": "ตำนานพรหม",
+    "category": "Vedanta",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 32,
+    "sanskrit_name": "Brahmashatkam",
+    "thai_name": "พรหมะศัตกัม",
+    "thai_translation": "บทสวด 6 ข้อแห่งพรหม",
+    "category": "Vedanta",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 33,
+    "sanskrit_name": "Brahmasiddhi",
+    "thai_name": "พรหมะสิทธิ",
+    "thai_translation": "ความสำเร็จของพรหม",
+    "category": "Vedanta",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 34,
+    "sanskrit_name": "Brahmopanishad",
+    "thai_name": "พรหมะอุปนิษัท",
+    "thai_translation": "ว่าด้วยพรหม",
+    "category": "Vedanta",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 35,
+    "sanskrit_name": "Brihadaranyaka",
+    "thai_name": "พฤหทารัณยกะ",
+    "thai_translation": "ปรัชญาแห่งป่าใหญ่",
+    "category": "Principal",
+    "veda": "Shukla Yajur Veda"
+  },
+  {
+    "id": 36,
+    "sanskrit_name": "Chandogya",
+    "thai_name": "ฉานโทคยะ",
+    "thai_translation": "บทสวดของนักร้องเพลง",
+    "category": "Principal",
+    "veda": "Sama Veda"
+  },
+  {
+    "id": 37,
+    "sanskrit_name": "Darshana",
+    "thai_name": "ทรรศนะ",
+    "thai_translation": "วิสัยทัศน์/มุมมอง",
+    "category": "Philosophy",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 38,
+    "sanskrit_name": "Dattatreya",
+    "thai_name": "ทัตตาเตรยะ",
+    "thai_translation": "ปรัชญาของฤๅษีทัตตาเตรยะ",
+    "category": "Shaiva",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 39,
+    "sanskrit_name": "Devatadhyaya",
+    "thai_name": "เทวตาธยายะ",
+    "thai_translation": "ว่าด้วยเทพเจ้า",
+    "category": "Minor",
+    "veda": "Sama Veda"
+  },
+  {
+    "id": 40,
+    "sanskrit_name": "Devi",
+    "thai_name": "เทวี",
+    "thai_translation": "เทวี",
+    "category": "Shakti",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 41,
+    "sanskrit_name": "Dhyanabindu",
+    "thai_name": "ธยานพินธุ",
+    "thai_translation": "หยดแห่งสมาธิ",
+    "category": "Yoga",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 42,
+    "sanskrit_name": "Dhyanaprabodha",
+    "thai_name": "ธยานประโพธะ",
+    "thai_translation": "ตื่นรู้แห่งสมาธิ",
+    "category": "Yoga",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 43,
+    "sanskrit_name": "Dhyana",
+    "thai_name": "ธยานะ",
+    "thai_translation": "การทำสมาธิ",
+    "category": "Yoga",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 44,
+    "sanskrit_name": "Dhyanayoga",
+    "thai_name": "ธยานะโยคะ",
+    "thai_translation": "โยคะแห่งสมาธิ",
+    "category": "Yoga",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 45,
+    "sanskrit_name": "Ekakshara",
+    "thai_name": "เอกากษระ",
+    "thai_translation": "พยางค์เดียว (โอม)",
+    "category": "Mantra",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 46,
+    "sanskrit_name": "Ganapati",
+    "thai_name": "คณปติ",
+    "thai_translation": "พระพิฆเนศ",
+    "category": "Shaiva",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 47,
+    "sanskrit_name": "Garbha",
+    "thai_name": "ครภะ",
+    "thai_translation": "บทว่าด้วยครรภ์",
+    "category": "Minor",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 48,
+    "sanskrit_name": "Gopalatapani",
+    "thai_name": "โคปาลตาปานี",
+    "thai_translation": "บทสวดโคบาล",
+    "category": "Vaishnava",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 49,
+    "sanskrit_name": "Govinda",
+    "thai_name": "โควินทะ",
+    "thai_translation": "พระกฤษณะ",
+    "category": "Vaishnava",
+    "veda": "Sama Veda"
+  },
+  {
+    "id": 50,
+    "sanskrit_name": "Grahya",
+    "thai_name": "ครหยะ",
+    "thai_translation": "ว่าด้วยพิธีกรรม",
+    "category": "Ritual",
+    "veda": "Sama Veda"
+  },
+  {
+    "id": 51,
+    "sanskrit_name": "Guhya",
+    "thai_name": "คุหยะ",
+    "thai_translation": "สิ่งลี้ลับ",
+    "category": "Esoteric",
+    "veda": "Sama Veda"
+  },
+  {
+    "id": 52,
+    "sanskrit_name": "Guru",
+    "thai_name": "คุรุ",
+    "thai_translation": "ครู/อาจารย์",
+    "category": "Teaching",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 53,
+    "sanskrit_name": "Hamsa",
+    "thai_name": "หังสะ",
+    "thai_translation": "หงส์ (สัญลักษณ์วิญญาณ)",
+    "category": "Yoga",
+    "veda": "Shukla Yajur Veda"
+  },
+  {
+    "id": 54,
+    "sanskrit_name": "Hamsavidya",
+    "thai_name": "หังสะวิทยา",
+    "thai_translation": "วิชาหงส์",
+    "category": "Yoga",
+    "veda": "Sama Veda"
+  },
+  {
+    "id": 55,
+    "sanskrit_name": "Harita",
+    "thai_name": "หาริตะ",
+    "thai_translation": "สีเขียว/ฤๅษี",
+    "category": "Minor",
+    "veda": "Sama Veda"
+  },
+  {
+    "id": 56,
+    "sanskrit_name": "Isha",
+    "thai_name": "อิศะ",
+    "thai_translation": "พระเจ้า/สัจธรรม",
+    "category": "Principal",
+    "veda": "Shukla Yajur Veda"
+  },
+  {
+    "id": 57,
+    "sanskrit_name": "Jabala",
+    "thai_name": "ชบาละ",
+    "thai_translation": "ปรัชญาของฤๅษีชบาละ",
+    "category": "Sannyasa",
+    "veda": "Shukla Yajur Veda"
+  },
+  {
+    "id": 58,
+    "sanskrit_name": "Jaiminiya",
+    "thai_name": "ไชมินิยะ",
+    "thai_translation": "ปรัชญาของฤๅษีไชมินิ",
+    "category": "Minor",
+    "veda": "Sama Veda"
+  },
+  {
+    "id": 59,
+    "sanskrit_name": "Janaki",
+    "thai_name": "ชานากี",
+    "thai_translation": "พระนางสีดา",
+    "category": "Vaishnava",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 60,
+    "sanskrit_name": "Kalahamsa",
+    "thai_name": "กาลหังสะ",
+    "thai_translation": "หงส์แห่งกาลเวลา",
+    "category": "Yoga",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 61,
+    "sanskrit_name": "Kalagnirudra",
+    "thai_name": "กาลากนิรุทระ",
+    "thai_translation": "ไฟแห่งพระรุทระ",
+    "category": "Shaiva",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 62,
+    "sanskrit_name": "Kalisantarana",
+    "thai_name": "กาลิสันตรณะ",
+    "thai_translation": "การข้ามยุคกาลิ",
+    "category": "Vaishnava",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 63,
+    "sanskrit_name": "Kama",
+    "thai_name": "กามะ",
+    "thai_translation": "ความรัก/ปรารถนา",
+    "category": "Philosophy",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 64,
+    "sanskrit_name": "Kamala",
+    "thai_name": "กมละ",
+    "thai_translation": "ดอกบัว/เทวี",
+    "category": "Shakti",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 65,
+    "sanskrit_name": "Kanva",
+    "thai_name": "กาณวะ",
+    "thai_translation": "ปรัชญาของฤๅษีกาณวะ",
+    "category": "Minor",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 66,
+    "sanskrit_name": "Kapila",
+    "thai_name": "กปิละ",
+    "thai_translation": "ปรัชญาของฤๅษีกปิละ",
+    "category": "Sankhya",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 67,
+    "sanskrit_name": "Katha",
+    "thai_name": "กถะ",
+    "thai_translation": "ว่าด้วยความตายและชีวิต",
+    "category": "Principal",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 68,
+    "sanskrit_name": "Kaushitaki",
+    "thai_name": "เกาษิตกิ",
+    "thai_translation": "ปรัชญาของฤๅษีเกาษิตกิ",
+    "category": "Principal",
+    "veda": "Rig Veda"
+  },
+  {
+    "id": 69,
+    "sanskrit_name": "Kaushitakibrahmana",
+    "thai_name": "เกาษิตกิพราหมณะ",
+    "thai_translation": "พราหมณ์เกาษิตกิ",
+    "category": "Ritual",
+    "veda": "Rig Veda"
+  },
+  {
+    "id": 70,
+    "sanskrit_name": "Kaivalya",
+    "thai_name": "ไกววลยะ",
+    "thai_translation": "ความหลุดพ้น",
+    "category": "Vedanta",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 71,
+    "sanskrit_name": "Kena",
+    "thai_name": "เกนะ",
+    "thai_translation": "ใคร (ปรัชญาว่าด้วยผู้สร้าง)",
+    "category": "Principal",
+    "veda": "Sama Veda"
+  },
+  {
+    "id": 72,
+    "sanskrit_name": "Kshurika",
+    "thai_name": "กษุริกา",
+    "thai_translation": "มีดโกน (เปรียบการตัดอัตตา)",
+    "category": "Yoga",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 73,
+    "sanskrit_name": "Laghu",
+    "thai_name": "ลฆุ",
+    "thai_translation": "สั้น/เล็ก",
+    "category": "Minor",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 74,
+    "sanskrit_name": "Linga",
+    "thai_name": "ลิงคะ",
+    "thai_translation": "สัญลักษณ์พระศิวะ",
+    "category": "Shaiva",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 75,
+    "sanskrit_name": "Madhyamika",
+    "thai_name": "มธยมิกะ",
+    "thai_translation": "ทางสายกลาง",
+    "category": "Philosophy",
+    "veda": "Sama Veda"
+  },
+  {
+    "id": 76,
+    "sanskrit_name": "Mahavakya",
+    "thai_name": "มหาวากยะ",
+    "thai_translation": "วลีสูงสุด",
+    "category": "Vedanta",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 77,
+    "sanskrit_name": "Mandala",
+    "thai_name": "มณฑละ",
+    "thai_translation": "วงกลม/จักรวาล",
+    "category": "Yoga",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 78,
+    "sanskrit_name": "Mandukya",
+    "thai_name": "มาณฑูกยะ",
+    "thai_translation": "ปรัชญาแห่งสภาวะสี่",
+    "category": "Principal",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 79,
+    "sanskrit_name": "Mantra",
+    "thai_name": "มนตระ",
+    "thai_translation": "บทสวด",
+    "category": "Mantra",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 80,
+    "sanskrit_name": "Mantrika",
+    "thai_name": "มนตริกา",
+    "thai_translation": "ผู้สวดมนต์",
+    "category": "Mantra",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 81,
+    "sanskrit_name": "Maitreya",
+    "thai_name": "ไมตรียะ",
+    "thai_translation": "ปรัชญาของฤๅษีไมตรียะ",
+    "category": "Minor",
+    "veda": "Sama Veda"
+  },
+  {
+    "id": 82,
+    "sanskrit_name": "Maitrayani",
+    "thai_name": "ไมตรายนี",
+    "thai_translation": "ปรัชญาของไมตรายนี",
+    "category": "Principal",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 83,
+    "sanskrit_name": "Maitrayaniya",
+    "thai_name": "ไมตรายณียะ",
+    "thai_translation": "ปรัชญาของไมตรายณียะ",
+    "category": "Minor",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 84,
+    "sanskrit_name": "Mala",
+    "thai_name": "มาลา",
+    "thai_translation": "ลูกประคำ",
+    "category": "Yoga",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 85,
+    "sanskrit_name": "Mallikarjun",
+    "thai_name": "มัลลิการชุน",
+    "thai_translation": "เทวีมัลลิกา",
+    "category": "Shaiva",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 86,
+    "sanskrit_name": "Mandi",
+    "thai_name": "มาณฑิ",
+    "thai_translation": "สั้น/กระชับ",
+    "category": "Minor",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 87,
+    "sanskrit_name": "Mano",
+    "thai_name": "มโน",
+    "thai_translation": "จิตใจ",
+    "category": "Philosophy",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 88,
+    "sanskrit_name": "Mundaka",
+    "thai_name": "มุณฑกะ",
+    "thai_translation": "ว่าด้วยวิธีการบรรลุธรรม",
+    "category": "Principal",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 89,
+    "sanskrit_name": "Muktika",
+    "thai_name": "มุกติกะ",
+    "thai_translation": "การปลดปล่อย",
+    "category": "Vedanta",
+    "veda": "Shukla Yajur Veda"
+  },
+  {
+    "id": 90,
+    "sanskrit_name": "Narada",
+    "thai_name": "นารทะ",
+    "thai_translation": "ฤๅษีนารทะ",
+    "category": "Bhakti",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 91,
+    "sanskrit_name": "Narayana",
+    "thai_name": "นารายณะ",
+    "thai_translation": "พระนารายณ์",
+    "category": "Vaishnava",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 92,
+    "sanskrit_name": "Niralamba",
+    "thai_name": "นิราลัมพะ",
+    "thai_translation": "ไร้ที่พึ่ง",
+    "category": "Vedanta",
+    "veda": "Shukla Yajur Veda"
+  },
+  {
+    "id": 93,
+    "sanskrit_name": "Nirvana",
+    "thai_name": "นิรวาณะ",
+    "thai_translation": "การหลุดพ้น",
+    "category": "Vedanta",
+    "veda": "Rig Veda"
+  },
+  {
+    "id": 94,
+    "sanskrit_name": "Nrisimha",
+    "thai_name": "นฤสิมหะ",
+    "thai_translation": "พระนฤสิมหะ",
+    "category": "Vaishnava",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 95,
+    "sanskrit_name": "Paingala",
+    "thai_name": "ไปงคละ",
+    "thai_translation": "ปรัชญาแห่งฤๅษีไปงคละ",
+    "category": "Yoga",
+    "veda": "Shukla Yajur Veda"
+  },
+  {
+    "id": 96,
+    "sanskrit_name": "Paramahamsa",
+    "thai_name": "ปรมหังสะ",
+    "thai_translation": "หงส์สูงสุด",
+    "category": "Sannyasa",
+    "veda": "Shukla Yajur Veda"
+  },
+  {
+    "id": 97,
+    "sanskrit_name": "Paramahamsaparivrajak",
+    "thai_name": "ปรมหังสะปริวราชกะ",
+    "thai_translation": "นักบวชหงส์สูงสุด",
+    "category": "Sannyasa",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 98,
+    "sanskrit_name": "Parama",
+    "thai_name": "ปรมะ",
+    "thai_translation": "สูงสุด",
+    "category": "Vedanta",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 99,
+    "sanskrit_name": "Paramapurusha",
+    "thai_name": "ปรมะปุรุษะ",
+    "thai_translation": "บุรุษสูงสุด",
+    "category": "Vedanta",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 100,
+    "sanskrit_name": "Parabrahma",
+    "thai_name": "ปรพรหมะ",
+    "thai_translation": "สัจธรรมสูงสุด",
+    "category": "Vedanta",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 101,
+    "sanskrit_name": "Parameshvara",
+    "thai_name": "ปรเมศวระ",
+    "thai_translation": "พระเจ้าสูงสุด",
+    "category": "Shaiva",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 102,
+    "sanskrit_name": "Parashakti",
+    "thai_name": "ปราศักติ",
+    "thai_translation": "พลังสูงสุด",
+    "category": "Shakti",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 103,
+    "sanskrit_name": "Paratrishti",
+    "thai_name": "ปราตริษฐิ",
+    "thai_translation": "การเห็นสูงสุด",
+    "category": "Vedanta",
+    "veda": "Rig Veda"
+  },
+  {
+    "id": 104,
+    "sanskrit_name": "Paravidya",
+    "thai_name": "ปราวิทยา",
+    "thai_translation": "วิชาสูงสุด",
+    "category": "Vedanta",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 105,
+    "sanskrit_name": "Pranagnihotra",
+    "thai_name": "ประาณากนิโหตร",
+    "thai_translation": "บทสวดไฟชีวิต",
+    "category": "Yoga",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 106,
+    "sanskrit_name": "Pranava",
+    "thai_name": "ประณวะ",
+    "thai_translation": "พยางค์ศักดิ์สิทธิ์ โอม",
+    "category": "Mantra",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 107,
+    "sanskrit_name": "Prashna",
+    "thai_name": "ประศนะ",
+    "thai_translation": "การถาม",
+    "category": "Principal",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 108,
+    "sanskrit_name": "PurushaSukta",
+    "thai_name": "ปุรุษสูกต",
+    "thai_translation": "เพลงสรรเสริญบุรุษสูงสุด",
+    "category": "Vedanta",
+    "veda": "Rig Veda"
+  },
+  {
+    "id": 109,
+    "sanskrit_name": "Raja",
+    "thai_name": "ราชะ",
+    "thai_translation": "กษัตริย์",
+    "category": "Yoga",
+    "veda": "Shukla Yajur Veda"
+  },
+  {
+    "id": 110,
+    "sanskrit_name": "Ramatapani",
+    "thai_name": "รามตาปานี",
+    "thai_translation": "บทสวดพระราม",
+    "category": "Vaishnava",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 111,
+    "sanskrit_name": "Rudra",
+    "thai_name": "รุทระ",
+    "thai_translation": "ปรัชญาพระรุทระ",
+    "category": "Shaiva",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 112,
+    "sanskrit_name": "Rudrahridaya",
+    "thai_name": "รุทระหฤทยะ",
+    "thai_translation": "หัวใจพระรุทระ",
+    "category": "Shaiva",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 113,
+    "sanskrit_name": "Saubhagya",
+    "thai_name": "เสาภาคยะ",
+    "thai_translation": "ความโชคดี",
+    "category": "Shakti",
+    "veda": "Rig Veda"
+  },
+  {
+    "id": 114,
+    "sanskrit_name": "SaubhagyaLakshmi",
+    "thai_name": "เสาภาคยะลักษมี",
+    "thai_translation": "เทวีแห่งโชคลาภ",
+    "category": "Shakti",
+    "veda": "Rig Veda"
+  },
+  {
+    "id": 115,
+    "sanskrit_name": "Sankhya",
+    "thai_name": "สังขยะ",
+    "thai_translation": "ปรัชญาสังขยะ",
+    "category": "Philosophy",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 116,
+    "sanskrit_name": "Sannyasa",
+    "thai_name": "สันยาสะ",
+    "thai_translation": "การละทิ้งโลก",
+    "category": "Sannyasa",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 117,
+    "sanskrit_name": "Sarasvati",
+    "thai_name": "สรัสวตี",
+    "thai_translation": "เทวีแห่งปัญญา",
+    "category": "Shakti",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 118,
+    "sanskrit_name": "Sarasvatirahasya",
+    "thai_name": "สรัสวตีรหัสยะ",
+    "thai_translation": "ความลับแห่งสรัสวตี",
+    "category": "Shakti",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 119,
+    "sanskrit_name": "Sarvasara",
+    "thai_name": "สรวสาระ",
+    "thai_translation": "สาระทั้งหมด",
+    "category": "Vedanta",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 120,
+    "sanskrit_name": "Sarvasiddhanta",
+    "thai_name": "สรวสิทธานตะ",
+    "thai_translation": "หลักคำสอนทั้งหมด",
+    "category": "Vedanta",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 121,
+    "sanskrit_name": "Shandilya",
+    "thai_name": "ศานดิลยะ",
+    "thai_translation": "ปรัชญาของฤๅษีศานดิลยะ",
+    "category": "Bhakti",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 122,
+    "sanskrit_name": "Shat",
+    "thai_name": "ษัฏ",
+    "thai_translation": "หก",
+    "category": "Minor",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 123,
+    "sanskrit_name": "Shatarudriya",
+    "thai_name": "ศตรุทริยะ",
+    "thai_translation": "ร้อยพระรุทระ",
+    "category": "Shaiva",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 124,
+    "sanskrit_name": "Shatyayaniya",
+    "thai_name": "ศัตยายนียะ",
+    "thai_translation": "ปรัชญาศัตยายนียะ",
+    "category": "Minor",
+    "veda": "Sama Veda"
+  },
+  {
+    "id": 125,
+    "sanskrit_name": "Shiva",
+    "thai_name": "ศิวะ",
+    "thai_translation": "พระศิวะ",
+    "category": "Shaiva",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 126,
+    "sanskrit_name": "Shivatapani",
+    "thai_name": "ศิวตาปานี",
+    "thai_translation": "บทสวดพระศิวะ",
+    "category": "Shaiva",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 127,
+    "sanskrit_name": "Shukla",
+    "thai_name": "ศุกละ",
+    "thai_translation": "ขาว",
+    "category": "Minor",
+    "veda": "Shukla Yajur Veda"
+  },
+  {
+    "id": 128,
+    "sanskrit_name": "Shuklayajurveda",
+    "thai_name": "ศุกลยชุรเวทะ",
+    "thai_translation": "ยชุรเวทะขาว",
+    "category": "Vedic",
+    "veda": "Shukla Yajur Veda"
+  },
+  {
+    "id": 129,
+    "sanskrit_name": "Shulba",
+    "thai_name": "ศุลพะ",
+    "thai_translation": "กฎแห่งศุลพะ",
+    "category": "Mathematics",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 130,
+    "sanskrit_name": "Skanda",
+    "thai_name": "สกันทะ",
+    "thai_translation": "พระสกันทะ",
+    "category": "Shaiva",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 131,
+    "sanskrit_name": "Soubhagya",
+    "thai_name": "เสาภาคยะ",
+    "thai_translation": "ความโชคดี",
+    "category": "Shakti",
+    "veda": "Rig Veda"
+  },
+  {
+    "id": 132,
+    "sanskrit_name": "Subala",
+    "thai_name": "สุพละ",
+    "thai_translation": "ปรัชญาสุพละ",
+    "category": "Vedanta",
+    "veda": "Shukla Yajur Veda"
+  },
+  {
+    "id": 133,
+    "sanskrit_name": "Sudhakar",
+    "thai_name": "สุธากร",
+    "thai_translation": "ผู้สร้างน้ำอมฤต",
+    "category": "Alchemy",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 134,
+    "sanskrit_name": "Surya",
+    "thai_name": "สุริยะ",
+    "thai_translation": "พระอาทิตย์",
+    "category": "Solar",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 135,
+    "sanskrit_name": "Svetasvatara",
+    "thai_name": "เศวตาศวตาระ",
+    "thai_translation": "ปรัชญาเศวตาศวตาระ",
+    "category": "Principal",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 136,
+    "sanskrit_name": "Taijasa",
+    "thai_name": "ไตชสะ",
+    "thai_translation": "แสงสว่าง",
+    "category": "Philosophy",
+    "veda": "Sama Veda"
+  },
+  {
+    "id": 137,
+    "sanskrit_name": "Taittiriya",
+    "thai_name": "ไตติตริยะ",
+    "thai_translation": "ว่าด้วยความรู้",
+    "category": "Principal",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 138,
+    "sanskrit_name": "Tejobindu",
+    "thai_name": "เตโชพินธุ",
+    "thai_translation": "หยดแห่งแสง",
+    "category": "Yoga",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 139,
+    "sanskrit_name": "TrishikhiBrahmana",
+    "thai_name": "ตริศิขีพราหมณะ",
+    "thai_translation": "พราหมณ์สามยอด",
+    "category": "Yoga",
+    "veda": "Shukla Yajur Veda"
+  },
+  {
+    "id": 140,
+    "sanskrit_name": "Tripadvibhuti",
+    "thai_name": "ตริปทวิภูติ",
+    "thai_translation": "อำนาจสามประการ",
+    "category": "Shaiva",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 141,
+    "sanskrit_name": "Tripura",
+    "thai_name": "ตริปุระ",
+    "thai_translation": "เทวีสามโลก",
+    "category": "Shakti",
+    "veda": "Rig Veda"
+  },
+  {
+    "id": 142,
+    "sanskrit_name": "Tripuratapani",
+    "thai_name": "ตริปุรตาปานี",
+    "thai_translation": "บทสวดตริปุระ",
+    "category": "Shakti",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 143,
+    "sanskrit_name": "Tripurari",
+    "thai_name": "ตริปุรารี",
+    "thai_translation": "ตริปุรารี",
+    "category": "Shaiva",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 144,
+    "sanskrit_name": "Trishikhi",
+    "thai_name": "ตริศิขี",
+    "thai_translation": "สามยอด",
+    "category": "Yoga",
+    "veda": "Shukla Yajur Veda"
+  },
+  {
+    "id": 145,
+    "sanskrit_name": "Turiyatita",
+    "thai_name": "ตุรียติตะ",
+    "thai_translation": "สภาวะเหนือวัฏจักร",
+    "category": "Vedanta",
+    "veda": "Shukla Yajur Veda"
+  },
+  {
+    "id": 146,
+    "sanskrit_name": "Turiyatitaavadhuta",
+    "thai_name": "ตุรียติตะอวธุตะ",
+    "thai_translation": "นักบวชเหนือวัฏจักร",
+    "category": "Sannyasa",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 147,
+    "sanskrit_name": "Ucchishtha",
+    "thai_name": "อุจฉิษฐะ",
+    "thai_translation": "เศษอาหารศักดิ์สิทธิ์",
+    "category": "Ritual",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 148,
+    "sanskrit_name": "Varaha",
+    "thai_name": "วราหะ",
+    "thai_translation": "พระวราหะ",
+    "category": "Vaishnava",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 149,
+    "sanskrit_name": "Varahatapani",
+    "thai_name": "วราหตาปานี",
+    "thai_translation": "บทสวดพระวราหะ",
+    "category": "Vaishnava",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 150,
+    "sanskrit_name": "Vasudeva",
+    "thai_name": "วาสุเทวะ",
+    "thai_translation": "พระกฤษณะ",
+    "category": "Vaishnava",
+    "veda": "Sama Veda"
+  },
+  {
+    "id": 151,
+    "sanskrit_name": "Vasudevatapani",
+    "thai_name": "วาสุเทวตาปานี",
+    "thai_translation": "บทสวดพระวาสุเทวะ",
+    "category": "Vaishnava",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 152,
+    "sanskrit_name": "Vedanta",
+    "thai_name": "เวทานตะ",
+    "thai_translation": "ปรัชญาเวทานตะ",
+    "category": "Vedanta",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 153,
+    "sanskrit_name": "Vedic",
+    "thai_name": "เวทิก",
+    "thai_translation": "ว่าด้วยเวท",
+    "category": "Vedic",
+    "veda": "All Vedas"
+  },
+  {
+    "id": 154,
+    "sanskrit_name": "Vijnana",
+    "thai_name": "วิชญาณะ",
+    "thai_translation": "ความรู้อันลึกซึ้ง",
+    "category": "Philosophy",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 155,
+    "sanskrit_name": "Vishnu",
+    "thai_name": "วิษณุ",
+    "thai_translation": "พระวิษณุ",
+    "category": "Vaishnava",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 156,
+    "sanskrit_name": "Vishvatma",
+    "thai_name": "วิศวาตมา",
+    "thai_translation": "อัตตาแห่งจักรวาล",
+    "category": "Vedanta",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 157,
+    "sanskrit_name": "Vratya",
+    "thai_name": "วรัตยะ",
+    "thai_translation": "ผู้ถือพรต",
+    "category": "Ritual",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 158,
+    "sanskrit_name": "Yoga",
+    "thai_name": "โยคะ",
+    "thai_translation": "โยคะ",
+    "category": "Yoga",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 159,
+    "sanskrit_name": "Yogachudamani",
+    "thai_name": "โยคจูฑามณี",
+    "thai_translation": "อัญมณีแห่งโยคะ",
+    "category": "Yoga",
+    "veda": "Sama Veda"
+  },
+  {
+    "id": 160,
+    "sanskrit_name": "Yogakundalini",
+    "thai_name": "โยคกุณฑาลินี",
+    "thai_translation": "กุณฑาลินีโยคะ",
+    "category": "Yoga",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 161,
+    "sanskrit_name": "Yogashikha",
+    "thai_name": "โยคศิขา",
+    "thai_translation": "ยอดแห่งโยคะ",
+    "category": "Yoga",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 162,
+    "sanskrit_name": "Yogatattva",
+    "thai_name": "โยคตัตตวะ",
+    "thai_translation": "ธาตุแห่งโยคะ",
+    "category": "Yoga",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 163,
+    "sanskrit_name": "Yogic",
+    "thai_name": "โยคิก",
+    "thai_translation": "ผู้ฝึกโยคะ",
+    "category": "Yoga",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 164,
+    "sanskrit_name": "Yogini",
+    "thai_name": "โยคินี",
+    "thai_translation": "นักโยคะหญิง",
+    "category": "Yoga",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 165,
+    "sanskrit_name": "Yogiraja",
+    "thai_name": "โยคิราชะ",
+    "thai_translation": "ราชาแห่งโยคะ",
+    "category": "Yoga",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 166,
+    "sanskrit_name": "Yogopanishad",
+    "thai_name": "โยคโคปนิษัท",
+    "thai_translation": "ว่าด้วยโยคะ",
+    "category": "Yoga",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 167,
+    "sanskrit_name": "Yudhishthira",
+    "thai_name": "ยุธิษฐิระ",
+    "thai_translation": "ปรัชญายุธิษฐิระ",
+    "category": "Dharma",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 168,
+    "sanskrit_name": "Yuga",
+    "thai_name": "ยุคะ",
+    "thai_translation": "ยุคสมัย",
+    "category": "Cosmology",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 169,
+    "sanskrit_name": "Yajnavalkya",
+    "thai_name": "ยาชญวัลกยะ",
+    "thai_translation": "ปรัชญาฤๅษียาชญวัลกยะ",
+    "category": "Principal",
+    "veda": "Shukla Yajur Veda"
+  },
+  {
+    "id": 170,
+    "sanskrit_name": "Yajnavalkyabrahmana",
+    "thai_name": "ยาชญวัลกยพราหมณะ",
+    "thai_translation": "พราหมณ์ยาชญวัลกยะ",
+    "category": "Ritual",
+    "veda": "Shukla Yajur Veda"
+  },
+  {
+    "id": 171,
+    "sanskrit_name": "Akshamala",
+    "thai_name": "อักษมาลา",
+    "thai_translation": "สายประคำอักษร",
+    "category": "Mantra",
+    "veda": "Rig Veda"
+  },
+  {
+    "id": 172,
+    "sanskrit_name": "Ananda",
+    "thai_name": "อานันทะ",
+    "thai_translation": "ความสุขสูงสุด",
+    "category": "Vedanta",
+    "veda": "Rig Veda"
+  },
+  {
+    "id": 173,
+    "sanskrit_name": "Avyakta",
+    "thai_name": "อวยกตะ",
+    "thai_translation": "สิ่งที่ไม่ปรากฏ",
+    "category": "Vedanta",
+    "veda": "Sama Veda"
+  },
+  {
+    "id": 174,
+    "sanskrit_name": "Bhikshuka",
+    "thai_name": "ภิกษุกะ",
+    "thai_translation": "นักบวชขอทาน",
+    "category": "Sannyasa",
+    "veda": "Shukla Yajur Veda"
+  },
+  {
+    "id": 175,
+    "sanskrit_name": "Brihajjabala",
+    "thai_name": "พฤหัชชบาละ",
+    "thai_translation": "ชบาละใหญ่",
+    "category": "Shaiva",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 176,
+    "sanskrit_name": "Chitsukha",
+    "thai_name": "จิตสุขะ",
+    "thai_translation": "ความสุขแห่งจิต",
+    "category": "Vedanta",
+    "veda": "Sama Veda"
+  },
+  {
+    "id": 177,
+    "sanskrit_name": "Dakshina",
+    "thai_name": "ทักษิณา",
+    "thai_translation": "ทิศใต้/การบริจาค",
+    "category": "Ritual",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 178,
+    "sanskrit_name": "Garuda",
+    "thai_name": "ครุฑะ",
+    "thai_translation": "พญาครุฑ",
+    "category": "Vaishnava",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 179,
+    "sanskrit_name": "Hayagriva",
+    "thai_name": "หยครีวะ",
+    "thai_translation": "พระหยครีวะ",
+    "category": "Vaishnava",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 180,
+    "sanskrit_name": "Kshuraka",
+    "thai_name": "กษุรกะ",
+    "thai_translation": "มีดตัด",
+    "category": "Yoga",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 181,
+    "sanskrit_name": "Mahanarayana",
+    "thai_name": "มหานารายณะ",
+    "thai_translation": "นารายณ์มหาน",
+    "category": "Vaishnava",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 182,
+    "sanskrit_name": "Markandeya",
+    "thai_name": "มารกณฺเทยะ",
+    "thai_translation": "ฤๅษีมารกณฺเทยะ",
+    "category": "Puranic",
+    "veda": "Rig Veda"
+  },
+  {
+    "id": 183,
+    "sanskrit_name": "Nada",
+    "thai_name": "นาทะ",
+    "thai_translation": "เสียงศักดิ์สิทธิ์",
+    "category": "Yoga",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 184,
+    "sanskrit_name": "Panchabrahma",
+    "thai_name": "ปัญจพรหมะ",
+    "thai_translation": "พรหมห้าประการ",
+    "category": "Shaiva",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 185,
+    "sanskrit_name": "Rudraksha",
+    "thai_name": "รุทราษะ",
+    "thai_translation": "เมล็ดรุทราษะ",
+    "category": "Shaiva",
+    "veda": "Sama Veda"
+  },
+  {
+    "id": 186,
+    "sanskrit_name": "Sarabha",
+    "thai_name": "ศรภะ",
+    "thai_translation": "สัตว์ศรภะ",
+    "category": "Shaiva",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 187,
+    "sanskrit_name": "Tara",
+    "thai_name": "ตารา",
+    "thai_translation": "ดาวเทวี",
+    "category": "Shakti",
+    "veda": "Rig Veda"
+  },
+  {
+    "id": 188,
+    "sanskrit_name": "Tripurasundari",
+    "thai_name": "ตริปุรสุนทรี",
+    "thai_translation": "ตริปุรสุนทรี",
+    "category": "Shakti",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 189,
+    "sanskrit_name": "Unmani",
+    "thai_name": "อุนมนี",
+    "thai_translation": "จิตที่เหนือมน",
+    "category": "Yoga",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 190,
+    "sanskrit_name": "Vajrasucha",
+    "thai_name": "วชรสูจา",
+    "thai_translation": "เข็มเพชร",
+    "category": "Social",
+    "veda": "Sama Veda"
+  },
+  {
+    "id": 191,
+    "sanskrit_name": "Yajnopavita",
+    "thai_name": "ยชญโคปวีตะ",
+    "thai_translation": "สายสะเทือน",
+    "category": "Ritual",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 192,
+    "sanskrit_name": "Aksamala",
+    "thai_name": "อักษมาลา",
+    "thai_translation": "สายลูกประคำ",
+    "category": "Vaishnava",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 193,
+    "sanskrit_name": "Bhavana",
+    "thai_name": "ภาวนา",
+    "thai_translation": "การเจริญจิต",
+    "category": "Meditation",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 194,
+    "sanskrit_name": "Chintamani",
+    "thai_name": "จินตามณี",
+    "thai_translation": "อัญมณีแห่งความปรารถนา",
+    "category": "Philosophy",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 195,
+    "sanskrit_name": "Devapuja",
+    "thai_name": "เทวปูชา",
+    "thai_translation": "การบูชาเทพเจ้า",
+    "category": "Worship",
+    "veda": "Rig Veda"
+  },
+  {
+    "id": 196,
+    "sanskrit_name": "Ekantada",
+    "thai_name": "เอกานตทะ",
+    "thai_translation": "ผู้ให้ความเป็นหนึ่งเดียว",
+    "category": "Vaishnava",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 197,
+    "sanskrit_name": "Garbhagita",
+    "thai_name": "ครภคีตา",
+    "thai_translation": "เพลงแห่งครรภ์",
+    "category": "Philosophy",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 198,
+    "sanskrit_name": "Hiranyagarbha",
+    "thai_name": "หิรัณยครภะ",
+    "thai_translation": "ครรภ์ทอง",
+    "category": "Cosmology",
+    "veda": "Rig Veda"
+  },
+  {
+    "id": 199,
+    "sanskrit_name": "Isavasya",
+    "thai_name": "อีศาวาสยะ",
+    "thai_translation": "ที่อยู่ของพระเจ้า",
+    "category": "Principal",
+    "veda": "Shukla Yajur Veda"
+  },
+  {
+    "id": 200,
+    "sanskrit_name": "Jivanmukta",
+    "thai_name": "ชีวันมุกตะ",
+    "thai_translation": "ผู้หลุดพ้นขณะยังมีชีวิต",
+    "category": "Liberation",
+    "veda": "Atharva Veda"
+  }
+]

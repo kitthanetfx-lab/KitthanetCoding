@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "sanskrit_name": "Aitareya",
+    "thai_name": "ไตติตริยะ",
+    "thai_translation": "ปรัชญาเกี่ยวกับต้นกำเนิดมนุษย์",
+    "description": "One of the oldest Upanishads dealing with the creation of the universe and the origin of human beings. It explains the cosmic person (Purusha) and the emergence of consciousness.",
+    "category": "Principal Upanishads",
+    "veda": "Rig Veda"
+  },
+  {
+    "id": 2,
+    "sanskrit_name": "Akshi",
+    "thai_name": "อักษิ",
+    "thai_translation": "ว่าด้วยดวงตาและความรู้แจ้ง",
+    "description": "This Upanishad focuses on the eye as a symbol of perception and spiritual insight, discussing the relationship between physical sight and inner vision.",
+    "category": "Minor Upanishads",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 3,
+    "sanskrit_name": "Amritabindu",
+    "thai_name": "อมฤตะบินธุ",
+    "thai_translation": "หยดแห่งความเป็นนิรันดร์",
+    "description": "The 'Drop of Immortality' - teaches about the nature of the mind, meditation, and the path to immortality through understanding the eternal Self.",
+    "category": "Yoga Upanishads",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 4,
+    "sanskrit_name": "Amritanada",
+    "thai_name": "อมฤตะนาทะ",
+    "thai_translation": "เสียงแห่งความเป็นนิรันดร์",
+    "description": "Focuses on the mystical sound (nada) that leads to immortality, discussing various stages of sound and their spiritual significance.",
+    "category": "Yoga Upanishads",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 5,
+    "sanskrit_name": "Annapurna",
+    "thai_name": "อันนะปูรณะ",
+    "thai_translation": "เทวีแห่งอาหาร",
+    "description": "Dedicated to the goddess Annapurna, who provides nourishment. Discusses the spiritual significance of food and sustenance.",
+    "category": "Shakti Upanishads",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 6,
+    "sanskrit_name": "Aruni",
+    "thai_name": "อารุนิ",
+    "thai_translation": "ปรัชญาของฤๅษีอารุนิ",
+    "description": "Contains the philosophical teachings of sage Aruni, focusing on the nature of reality and the Self.",
+    "category": "Minor Upanishads",
+    "veda": "Sama Veda"
+  },
+  {
+    "id": 7,
+    "sanskrit_name": "Atharvashikha",
+    "thai_name": "อถรรวศิขา",
+    "thai_translation": "ว่าด้วยศีรษะและความรู้",
+    "description": "Discusses the crown of the head as a seat of consciousness and divine knowledge, relating to the thousand-petaled lotus chakra.",
+    "category": "Minor Upanishads",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 8,
+    "sanskrit_name": "Atharvashiras",
+    "thai_name": "อถรรวศิรัส",
+    "thai_translation": "ว่าด้วยเศียร",
+    "description": "Similar to Atharvashikha, this text deals with the head region and its spiritual significance in yogic practices.",
+    "category": "Minor Upanishads",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 9,
+    "sanskrit_name": "Atmabodha",
+    "thai_name": "อัตมะโพธะ",
+    "thai_translation": "ความรู้แห่งอัตตา",
+    "description": "Deals with self-knowledge and the awakening of consciousness to its true nature as Brahman.",
+    "category": "Vedanta Upanishads",
+    "veda": "Rig Veda"
+  },
+  {
+    "id": 10,
+    "sanskrit_name": "Atmapurana",
+    "thai_name": "อัตมะปุราณะ",
+    "thai_translation": "ตำนานแห่งอัตตา",
+    "description": "Presents the story or legend of the Self, describing the journey of consciousness towards realization.",
+    "category": "Vedanta Upanishads",
+    "veda": "Rig Veda"
+  },
+  {
+    "id": 11,
+    "sanskrit_name": "Avadhuta",
+    "thai_name": "อวธุตะ",
+    "thai_translation": "นักบวชผู้หลุดพ้น",
+    "description": "Describes the state and characteristics of an Avadhuta - one who has transcended all worldly attachments and social conventions.",
+    "category": "Sannyasa Upanishads",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 12,
+    "sanskrit_name": "Bahvricha",
+    "thai_name": "พหุริฉะ",
+    "thai_translation": "ว่าด้วยความมั่งคั่ง",
+    "description": "Discusses abundance and prosperity, both material and spiritual, and how to attain them through righteous means.",
+    "category": "Minor Upanishads",
+    "veda": "Rig Veda"
+  },
+  {
+    "id": 13,
+    "sanskrit_name": "Bhasmajabala",
+    "thai_name": "ภัสมะชบาละ",
+    "thai_translation": "เถ้าแห่งความบริสุทธิ์",
+    "description": "Focuses on the sacred ash (bhasma) and its spiritual significance in purification and worship practices.",
+    "category": "Shaiva Upanishads",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 14,
+    "sanskrit_name": "Brahma",
+    "thai_name": "พรหมะ",
+    "thai_translation": "องค์พรหม",
+    "description": "Central text discussing the nature of Brahman - the ultimate reality and absolute consciousness.",
+    "category": "Principal Upanishads",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 15,
+    "sanskrit_name": "Brahmakaivalya",
+    "thai_name": "พรหมะไกวัลยะ",
+    "thai_translation": "ความหลุดพ้นแห่งพรหม",
+    "description": "Teaches about liberation through the realization of Brahman and the attainment of absolute freedom.",
+    "category": "Vedanta Upanishads",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 16,
+    "sanskrit_name": "Brahmarahasya",
+    "thai_name": "พรหมะรหัสยะ",
+    "thai_translation": "ความลับแห่งพรหม",
+    "description": "Reveals the secret teachings about Brahman and the mysteries of ultimate reality.",
+    "category": "Vedanta Upanishads",
+    "veda": "Atharva Veda"
+  },
+  {
+    "id": 17,
+    "sanskrit_name": "Brahmavidya",
+    "thai_name": "พรหมะวิทยา",
+    "thai_translation": "วิชาพรหม",
+    "description": "The knowledge of Brahman - systematic teaching about the supreme consciousness and methods to realize it.",
+    "category": "Vedanta Upanishads",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 18,
+    "sanskrit_name": "Brahmabindu",
+    "thai_name": "พรหมะพินธุ",
+    "thai_translation": "หยดพรหม",
+    "description": "Describes Brahman as the eternal point from which all existence emerges and returns.",
+    "category": "Yoga Upanishads",
+    "veda": "Krishna Yajur Veda"
+  },
+  {
+    "id": 19,
+    "sanskrit_name": "Brihadaranyaka",
+    "thai_name": "พฤหทารัณยกะ",
+    "thai_translation": "ปรัชญาแห่งป่าใหญ่",
+    "description": "One of the longest and most important Upanishads, containing profound philosophical discussions about reality, self, and cosmos.",
+    "category": "Principal Upanishads",
+    "veda": "Shukla Yajur Veda"
+  },
+  {
+    "id": 20,
+    "sanskrit_name": "Chandogya",
+    "thai_name": "ฉานโทคยะ",
+    "thai_translation": "บทสวดของนักร้องเพลง",
+    "description": "Famous for its philosophical dialogues and the teaching 'Tat tvam asi' (Thou art That), fundamental to Advaita Vedanta.",
+    "category": "Principal Upanishads",
+    "veda": "Sama Veda"
+  }
+]
